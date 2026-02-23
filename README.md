@@ -41,3 +41,14 @@
 - RPG 장르(Top3 포함) 유저에서 수익성 상승 효과가 특히 큼
 
 ## 6. 프로젝트 구조
+├── notebooks/
+│ └── cross_play_analysis.ipynb
+├── data/ # ❌ GitHub에는 포함되지 않음
+│ ├── raw/
+│ └── codebook/
+├── README.md
+└── .gitignore
+
+
+※ data 디렉토리는 로컬 분석 환경에서만 사용되며,
+GitHub 저장소에는 포함되지 않습니다.
