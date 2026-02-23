@@ -41,11 +41,14 @@
 - RPG 장르(Top3 포함) 유저에서 수익성 상승 효과가 특히 큼
 
 ## 6. 프로젝트 구조
+
+```text
+.
 ├── notebooks/
-│ └── cross_play_analysis.ipynb
+│   └── cross_play_analysis.ipynb
 ├── data/ # ❌ GitHub에는 포함되지 않음
-│ ├── raw/
-│ └── codebook/
+│   ├── raw/
+│   └── codebook/
 ├── README.md
 └── .gitignore
 
