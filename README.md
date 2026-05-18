@@ -43,8 +43,7 @@
 
 ```text
 .
-├── notebooks/
-│   └── cross_play_analysis.ipynb
+├── cross_play_analysis.ipynb
 ├── data/ # ❌ GitHub에는 포함되지 않음
 │   ├── raw/
 │   └── codebook/
